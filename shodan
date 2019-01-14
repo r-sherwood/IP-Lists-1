@@ -5,7 +5,7 @@
 #
 # https://www.shodan.io
 #
-# Entries : 0 subnets, 41 unique IPs
+# Entries : 0 subnets, 44 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -19,6 +19,7 @@
 71.6.146.186
 71.6.158.166
 71.6.165.200
+71.6.167.124
 71.6.167.142
 80.82.77.33
 80.82.77.139
@@ -32,6 +33,8 @@
 93.174.95.106
 94.102.49.190
 94.102.49.193
+104.25.89.97
+104.25.90.97
 104.131.0.69
 104.236.198.48
 159.203.176.62
