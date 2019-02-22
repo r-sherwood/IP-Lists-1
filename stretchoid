@@ -3,7 +3,7 @@
 #
 # A firewall blacklist composed of Stretchoid scanners
 #
-# Entries : 0 subnets, 305 unique IPs
+# Entries : 0 subnets, 306 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -51,6 +51,7 @@
 104.131.137.71
 104.131.141.237
 104.131.144.194
+104.131.145.23
 104.131.145.60
 104.131.145.212
 104.131.145.239
