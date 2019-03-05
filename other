@@ -4,7 +4,7 @@
 #
 # A List of Other Scanners
 #
-# Entries : 3 subnets, 0 unique IPs
+# Entries : 3 subnets, 19 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -12,3 +12,24 @@
 141.212.121.0/24
 141.212.122.0/24
 141.212.123.0/24
+#
+#InterneTTL project http://www.internettl.org/
+104.152.52.21
+104.152.52.22
+104.152.52.23
+104.152.52.24
+104.152.52.25
+104.152.52.26
+104.152.52.27
+104.152.52.28
+104.152.52.29
+104.152.52.30
+104.152.52.31
+104.152.52.32
+104.152.52.33
+104.152.52.34
+104.152.52.35
+104.152.52.36
+104.152.52.37
+104.152.52.38
+104.152.52.39
