@@ -4,7 +4,7 @@
 #
 # A List of Other Scanners
 #
-# Entries : 3 subnets, 19 unique IPs
+# Entries : 4 subnets, 19 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -33,3 +33,6 @@
 104.152.52.37
 104.152.52.38
 104.152.52.39
+#
+#Censys https://support.censys.io/getting-started/frequently-asked-questions-faq
+198.108.66.0/23
