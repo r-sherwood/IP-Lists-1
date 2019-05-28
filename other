@@ -4,7 +4,7 @@
 #
 # A List of Other Scanners
 #
-# Entries : 4 subnets, 20 unique IPs
+# Entries : 4 subnets, 21 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -38,6 +38,7 @@
 #Censys https://support.censys.io/getting-started/frequently-asked-questions-faq
 198.108.66.0/23
 198.108.67.48
+198.108.67.43
 #
 #Shadow Server https://www.shadowserver.org/what-we-do/data-collection/
 184.105.247.195
