@@ -4,7 +4,6 @@
 #
 # A List of Other Scanners
 #
-# Entries : 4 subnets, 21 unique IPs
 #
 # Report false entries or additional entries as a pull request or issue
 #
@@ -43,7 +42,4 @@
 167.94.138.0/24
 167.248.133.0/24
 192.35.168.0/23
-#
-#Shadow Server https://www.shadowserver.org/what-we-do/data-collection/
-184.105.247.195
-184.105.247.227
+
