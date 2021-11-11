@@ -38,11 +38,11 @@
 104.152.52.38
 104.152.52.39
 #
-#Censys https://support.censys.io/getting-started/frequently-asked-questions-faq
-198.108.66.0/23
-198.108.67.42
-198.108.67.43
-198.108.67.48
+#Censys https://support.censys.io/hc/en-us/articles/360038378552-Frequently-Asked-Questions
+162.142.125.0/24
+167.94.138.0/24
+167.248.133.0/24
+192.35.168.0/23
 #
 #Shadow Server https://www.shadowserver.org/what-we-do/data-collection/
 184.105.247.195
