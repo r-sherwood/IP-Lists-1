@@ -57,9 +57,9 @@
 #Censys https://support.censys.io/hc/en-us/articles/360038378552-Frequently-Asked-Questions
 162.142.125.0/24
 167.94.138.0/24
+167.94.145.0/24
+167.94.146.0/24
 167.248.133.0/24
-192.35.168.0/23
-167.94.146.58
 #
 #monitoring.internet-measurement.com
 104.131.59.242
