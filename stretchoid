@@ -1,11 +1,12 @@
-
 #
-#
-#
+# Stretchoid IP List
 #
 # A firewall blacklist composed of Stretchoid scanners
+#
 # Report false entries or additional entries as a pull request or issue
-# Stretchoid IP List
+#
+45.55.0.14
+45.55.0.17
 104.131.128.22
 104.131.128.9
 104.131.144.12
@@ -550,5 +551,3 @@
 198.199.98.227
 198.199.98.36
 198.199.98.48
-45.55.0.14
-45.55.0.17
