@@ -1,5 +1,9 @@
+# IP Lists
+
 ## Purpose
-Some simple IP lists to use in firewall tools like pfBlockerNG.  These lists exist elsewhere but may not be in a format that is useable for me.
+
+Some simple IP lists to use in firewall tools like [pfBlockerNG](https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html).
+These lists exist elsewhere but may not be in a format that is useable for me.
 
 I primarily use these lists to block grey noise in my firewall logs.
 
@@ -9,6 +13,6 @@ Scanners seen frequenting my firewall logs are added to their respective list.  
 
 Lists should be limited to IPv4 based addresses for the time being.
 
-## Errors / Omissions / Etc.
+## Contribution
 
 If you find inaccuracies in these lists, please submit a pull request to fix the issue or open an issue to document the discrepancy and I will get it fixed.
